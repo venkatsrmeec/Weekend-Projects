@@ -1,6 +1,6 @@
 # Weekend Projects
 
-A collection of my hooby and weekend projects!!
+A collection of my hobby and weekend projects!!
 
 ## 🛠️ Latest Additions
 * **optimizedlayout.py** - This file is a version of the second file controldeck.py ; this uses hotspot or common wifi to turn android into a keyboard and other function via device browser ; no internet requred.
