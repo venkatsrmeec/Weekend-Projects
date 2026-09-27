@@ -179,19 +179,6 @@ The tracked `config.example.py` contains safe placeholder values. Your real `con
 - Audio is sent to Groq for transcription, so avoid using the assistant for sensitive/private recordings if that is a concern.
 - Groq usage may be subject to account or service rate limits.
 
-## GitHub checklist
-
-Before pushing:
-
-```bash
-git status
-git add .
-git status
-git commit -m "Initial Alfred assistant project"
-git push -u origin main
-```
-
-Confirm that `config.py` does **not** appear in `git status` before committing.
 
 ## License
 
